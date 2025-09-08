@@ -21,6 +21,7 @@ Depth First Search Uses Stack and Recursion
 Insert a START node to the STACK
 Find its Successors Or neighbors and Check whether the node is visited or not
 If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
+
 ### Program: 
 ```
 from collections import defaultdict def dfs(graph, start, visited, path):
