@@ -54,12 +54,14 @@ D E
 ### Sample Output:
 
 Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'], 'E': ['B', 'C', 'D']}
-
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
+
 **###Input:**
+
 <img width="442" height="120" alt="image" src="https://github.com/user-attachments/assets/141b1a68-6410-4ebf-bbd8-9eb5054ecaac" />
 
 ### Output:
+
 <img width="759" height="37" alt="image" src="https://github.com/user-attachments/assets/913a0ea1-372d-4ad6-b515-4466d3157b5a" />
 
 **Result:**
